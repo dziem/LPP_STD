@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1491622357 source:e:\strukdat\lpp 8\elpepe8\main.cpp
+	<iostream>
+	"bstree.h"
+
+1491635848 e:\strukdat\lpp 8\elpepe8\bstree.h
+	<iostream>
+
+1491636433 source:e:\strukdat\lpp 8\elpepe8\bstree.cpp
+	"bstree.h"
+
