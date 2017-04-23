@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1492919847 source:e:\strukdat\lpp 10\elpepe10\graph.cpp
+	"graph.h"
+
+1492918591 e:\strukdat\lpp 10\elpepe10\graph.h
+	<iostream>
+
+1492919898 source:e:\strukdat\lpp 10\elpepe10\main.cpp
+	<iostream>
+	"graph.h"
+
